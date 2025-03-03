@@ -1,4 +1,4 @@
-Machine Learning in Physics course, spring 2025
+Machine Learning in Physics
 
 
 ## lecture notes:
