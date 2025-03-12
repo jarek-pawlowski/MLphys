@@ -2,7 +2,7 @@ Machine Learning in Physics
 
 
 ## lecture notes:
-- [machine learning fundamentals](MLfundamentals.pdf)
+- [machine learning fundamentals](https://drive.google.com/file/d/1ysLemtBLL8Sd6wpi9yyezvCUjNfEOwj9/view?usp=sharing)
 
 
 ## proposed seminar topics
