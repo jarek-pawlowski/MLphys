@@ -3,6 +3,7 @@ Machine Learning in Physics
 
 ## lecture notes:
 - [machine learning fundamentals](https://drive.google.com/file/d/1ysLemtBLL8Sd6wpi9yyezvCUjNfEOwj9/view?usp=sharing)
+- [deep neural networks](https://drive.google.com/file/d/127NxAYWDIMIDwmcQWJzI3ZpSfj2SMNEC/view?usp=sharing)
 
 
 ## proposed seminar topics
