@@ -7,5 +7,6 @@ Machine Learning in Physics
 - [convolutional NNs](https://drive.google.com/file/d/1dL26N0g8p0Tobawi9phNQi7jT18ZfxCw/view?usp=sharing)
 
 
+
 ## proposed seminar topics
 - [list of proposed topics](https://github.com/jarek-pawlowski/MLA2025/blob/main/seminar_project_topics.pdf)
