@@ -9,5 +9,6 @@ Machine Learning in Physics
 - [attention and transformers](https://drive.google.com/file/d/17W0Mgn6iOQuZN3kJXyOWqgerW-6YuSqq/view?usp=sharing)
 
 
+
 ## proposed seminar topics
 - [list of proposed topics](https://github.com/jarek-pawlowski/MLA2025/blob/main/seminar_project_topics.pdf)
