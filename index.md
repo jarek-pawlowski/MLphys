@@ -8,7 +8,7 @@ Machine Learning in Physics
 - [recurrent neural nets](https://drive.google.com/file/d/1YTWyIBv0TdUaxAJAxMVmxD0vYtd9UpFn/view?usp=sharing)
 - [attention and transformers](https://drive.google.com/file/d/17W0Mgn6iOQuZN3kJXyOWqgerW-6YuSqq/view?usp=sharing)
 - [autoencoders and GANs](https://drive.google.com/file/d/1oMxmBSDfuG9Ai6GGI-oIGMfNx5rbpxiy/view?usp=sharing)
-- [graph NNs](https://drive.google.com/file/d/1PI0tto1nzdDd2xXpTJzu_UcHWCtiI19w/view?usp=sharing)
+- [graph NNs](https://drive.google.com/file/d/1PI0tto1nzdDd2xXpTJzu_UcHWCtiI19w/view?usp=sharing) 
 
 ## proposed seminar topics
 - [list of proposed topics](https://github.com/jarek-pawlowski/MLA2025/blob/main/seminar_project_topics.pdf)
