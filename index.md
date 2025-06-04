@@ -10,6 +10,8 @@ Machine Learning in Physics
 - [autoencoders and GANs](https://drive.google.com/file/d/1oMxmBSDfuG9Ai6GGI-oIGMfNx5rbpxiy/view?usp=sharing)
 - [graph CNNs](https://drive.google.com/file/d/1PI0tto1nzdDd2xXpTJzu_UcHWCtiI19w/view?usp=sharing)
 - [group-equivariant CNNs](https://drive.google.com/file/d/1Ngsl_LjXYV83iYb5LRwh0Ipwzr_1XUIJ/view?usp=sharing)
+- [physics informed NNs](https://drive.google.com/file/d/1VS_wbXDIK5yFyTffE2S5JuO0cPDGSZyf/view?usp=sharing)
+- [self- and semi-supervised learning](https://drive.google.com/file/d/1Yb50fLPV3GE8vt8Qntm3RdOBJLWR6_60/view?usp=sharing)
 
 
 ## proposed seminar topics
