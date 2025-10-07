@@ -23,14 +23,22 @@ Machine Learning in Physics
 - various activations
 - overfitting
 - regularization, early stopping
-- [Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/a5177dbf879b7e1f6c0f1ec1f698a73e/mnist_in_3_flavours.ipynb)
-![overfitted model](/Deep.png)
+- generalization on wallpaper dataset
+- [Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/8c785dbedd66f26d9ba95a78303e6668/mnist_in_3_flavours.ipynb)
+<!--
+- take MNIST dataset, apply some simple geometric transformations, and check if such dataset extending improves accuracy:
+    * use simple transformations (e.g. flip, rotate, translate, scale) using [scikit-image](https://scikit-image.org/docs/dev/api/skimage.transform.html), or [open-cv](https://docs.opencv.org/4.x/da/d6e/tutorial_py_geometric_transformations.html)
+    * or use [albumentations](https://github.com/albumentations-team/albumentations) library, demo: https://demo.albumentations.ai/
+    * verify if applying flips or rotations > 45 deg improve accuracy or not, why?
+-->
 3. ECG signal classification
 - classifiers comparison: SVM, decision trees, random forests
 - feature vectors and dimensionality reduction (PCA)
 - scikit-learn library
-- [Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/a504de96d401a02556f0cea58f8fd21a/ecg_classification.ipynb)
-![ecg arrhythimas](signals.png)
+- [Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/982ff9d80cbf2c442bf478cf37549733/ecg_classification.ipynb)
+4. Group equivariant CNNs
+5. Physics-informed NNs
+6. Transformer encoder or GANs?
 
 ## proposed seminar topics
 - [list of proposed topics](https://github.com/jarek-pawlowski/MLA2025/blob/main/seminar_project_topics.pdf)
