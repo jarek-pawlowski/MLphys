@@ -13,6 +13,24 @@ Machine Learning in Physics
 - [physics informed NNs](https://drive.google.com/file/d/1VS_wbXDIK5yFyTffE2S5JuO0cPDGSZyf/view?usp=sharing)
 - [self- and semi-supervised learning](https://drive.google.com/file/d/1Yb50fLPV3GE8vt8Qntm3RdOBJLWR6_60/view?usp=sharing)
 
+## laboratory classes:
+1. Preliminary problems
+- simple perceptron networks
+- Universal Approximation Theorem
+- [Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/18a24dcba8536ed4d1218c9a7bbd3eab/preliminary_problems.ipynb)
+2. Handwritten digits classification using MNIST dataset with Pytorch
+- models: perceptron, deep fully-connected network, generic CNN
+- various activations
+- overfitting
+- regularization, early stopping
+- [Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/a5177dbf879b7e1f6c0f1ec1f698a73e/mnist_in_3_flavours.ipynb)
+![overfitted model](/Deep.png)
+3. ECG signal classification
+- classifiers comparison: SVM, decision trees, random forests
+- feature vectors and dimensionality reduction (PCA)
+- scikit-learn library
+- [Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/a504de96d401a02556f0cea58f8fd21a/ecg_classification.ipynb)
+![ecg arrhythimas](signals.png)
 
 ## proposed seminar topics
 - [list of proposed topics](https://github.com/jarek-pawlowski/MLA2025/blob/main/seminar_project_topics.pdf)
