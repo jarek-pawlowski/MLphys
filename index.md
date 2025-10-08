@@ -33,7 +33,7 @@ Machine Learning in Physics
 5. **Physics-informed NNs**
 6. Transformer encoder or GANs?
 
-## Literature:
+## Literature: 
 - KP Murphy, [Probabilistic Machine Learning: An Introduction](https://github.com/probml/pml-book/releases/latest/download/book1.pdf)
 - KP Murphy, [Probabilistic Machine Learning: Advanced Topics](https://github.com/probml/pml2-book/releases/latest/download/book2.pdf)
 - MM Bronstein et al., [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://arxiv.org/abs/2104.13478)
