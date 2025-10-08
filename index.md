@@ -25,21 +25,18 @@ Machine Learning in Physics
 - regularization, early stopping
 - generalization on wallpaper dataset
 - augmentation
-<!--
-- [Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/8c785dbedd66f26d9ba95a78303e6668/mnist_in_3_flavours.ipynb)
-- take MNIST dataset, apply some simple geometric transformations, and check if such dataset extending improves accuracy:
-    * use simple transformations (e.g. flip, rotate, translate, scale) using [scikit-image](https://scikit-image.org/docs/dev/api/skimage.transform.html), or [open-cv](https://docs.opencv.org/4.x/da/d6e/tutorial_py_geometric_transformations.html)
-    * or use [albumentations](https://github.com/albumentations-team/albumentations) library, demo: https://demo.albumentations.ai/
-    * verify if applying flips or rotations > 45 deg improve accuracy or not, why? -->
 3. ECG **signal classification**
 - classifiers comparison: SVM, decision trees, random forests
 - feature vectors and dimensionality reduction (PCA)
 - scikit-learn library
-<!--
-- [Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/982ff9d80cbf2c442bf478cf37549733/ecg_classification.ipynb) -->
 4. **Group equivariant CNNs**
 5. **Physics-informed NNs**
 6. Transformer encoder or GANs?
+
+## Literature:
+- KP Murphy, [Probabilistic Machine Learning: An Introduction](https://github.com/probml/pml-book/releases/latest/download/book1.pdf)
+- KP Murphy, [Probabilistic Machine Learning: Advanced Topics](https://github.com/probml/pml2-book/releases/latest/download/book2.pdf)
+- MM Bronstein et al., [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://arxiv.org/abs/2104.13478)
 
 ## proposed seminar topics
 - [list of proposed topics](https://github.com/jarek-pawlowski/MLA2025/blob/main/seminar_project_topics.pdf)
