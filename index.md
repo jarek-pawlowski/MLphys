@@ -17,12 +17,10 @@ Machine Learning in Physics
 1. **Preliminary problems**
 - simple perceptron networks
 - Universal Approximation Theorem
-- [Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/18a24dcba8536ed4d1218c9a7bbd3eab/preliminary_problems.ipynb)
+- [Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/18a24dcba8536ed4d1218c9a7bbd3eab/preliminary_problems.ipynb), see also [updated notebook](preliminary_problems_v2.ipynb)
 2. **Image classification** using MNIST dataset with Pytorch
 - models: perceptron, deep fully-connected network, generic CNN
-- various activations
-- overfitting
-- regularization, early stopping
+- overfitting, regularization, early stopping
 - generalization on wallpaper dataset
 - augmentation
 3. ECG **signal classification**
