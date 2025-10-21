@@ -28,8 +28,8 @@ Machine Learning in Physics
     * or use [TorchVision](https://docs.pytorch.org/vision/0.13/transforms.html) library *online* during the training.
     * Verify if applying flips or rotations > 45 deg improve accuracy or not, why?
 - generalization on *wallpaper groups* [dataset](https://drive.google.com/file/d/1BUz9eZdU-8wMGkEEmPk1IIUi05pH5ZUK/view?usp=sharing):
-    * repeat the classifier training for the 2D crystallographic structures dataset;
-    * can we extract similarities between classes from the confusion matrix?
+    * repeat the classifier training for a 2D crystallographic structures dataset;
+    * can we extract similarities between the classes from the confusion matrix?
 3. ECG **signal classification**
 - classifiers comparison: SVM, decision trees, random forests
 - feature vectors and dimensionality reduction (PCA)
