@@ -21,14 +21,12 @@ Machine Learning in Physics
 2. **Image classification** using MNIST dataset
 - models: perceptron, deep fully-connected network, generic CNN
 - overfitting, regularization, early stopping
-- [Colab notebook]()
-  
-Extra tasks:
-- augmentation: apply some simple geometric transformations (see e.g. [lecture](https://drive.google.com/file/d/1kEe73ZhOLI28Nb5Fj54QynA4nolb0-yH/view?usp=sharing)), and check if such dataset extending improves accuracy:
-    * use simple transformations (e.g. flip, rotate, translate, scale) using [scikit-image](https://scikit-image.org/docs/dev/api/skimage.transform.html), or [open-cv](https://docs.opencv.org/4.x/da/d6e/tutorial_py_geometric_transformations.html)
-    * or use [albumentations](https://github.com/albumentations-team/albumentations) library, demo: https://demo.albumentations.ai/
-    > * example of combining *albumentations* with pytorch *Dataset* is presented [here]([pytorch_albumentations.ipynb](https://github.com/jarek-pawlowski/machine-learning-applications/blob/main/pytorch_albumentations.ipynb))
-    * verify if applying flips or rotations > 45 deg improve accuracy or not, why?
+- [Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/7049be85d3e424693cd899a336a3511e/mnist_in_3_flavours.ipynb)
+ <br>**Extra tasks:**
+- augmentation: apply some simple geometric transformations (see e.g. [lecture](https://drive.google.com/file/d/1yt_euw4TQZT1g1OTepu9vtJ9cYrnbObi/view?usp=sharing)), and check if such dataset extending improves accuracy:
+    * use simple transformations (e.g. flip, rotate, translate, scale) using [scikit-image](https://scikit-image.org/docs/dev/api/skimage.transform.html), or [open-cv](https://docs.opencv.org/4.x/da/d6e/tutorial_py_geometric_transformations.html),
+    * or use [TorchVision](https://docs.pytorch.org/vision/0.13/transforms.html) library.
+    * Verify if applying flips or rotations > 45 deg improve accuracy or not, why?
 - generalization on wallpaper dataset:
 3. ECG **signal classification**
 - classifiers comparison: SVM, decision trees, random forests
