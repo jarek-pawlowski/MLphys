@@ -24,12 +24,12 @@ Machine Learning in Physics
 - [Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/7049be85d3e424693cd899a336a3511e/mnist_in_3_flavours.ipynb)
  <br>**Extra tasks:**
 - augmentation: apply some simple geometric transformations (see e.g. [here](https://drive.google.com/file/d/1yt_euw4TQZT1g1OTepu9vtJ9cYrnbObi/view?usp=sharing)), and check if such dataset extending improves accuracy:
-    * use simple transformations (e.g. flip, rotate, translate, scale) using [scikit-image](https://scikit-image.org/docs/dev/api/skimage.transform.html), or [open-cv](https://docs.opencv.org/4.x/da/d6e/tutorial_py_geometric_transformations.html),
-    * or use [TorchVision](https://docs.pytorch.org/vision/0.13/transforms.html) library *online* during the training.
-    * Verify if applying flips or rotations > 45 deg improve accuracy or not, why?
+    - use simple transformations (e.g. flip, rotate, translate, scale) using [scikit-image](https://scikit-image.org/docs/dev/api/skimage.transform.html), or [open-cv](https://docs.opencv.org/4.x/da/d6e/tutorial_py_geometric_transformations.html),
+    - or use [TorchVision](https://docs.pytorch.org/vision/0.13/transforms.html) library *online* during the training.
+    - Verify if applying flips or rotations > 45 deg improve accuracy or not, why?
 - generalization on *wallpaper groups* [dataset](https://drive.google.com/file/d/1BUz9eZdU-8wMGkEEmPk1IIUi05pH5ZUK/view?usp=sharing):
-    * repeat the classifier training for a 2D crystallographic structures dataset;
-    * can we extract similarities between the classes from the confusion matrix?
+    - repeat the classifier training for a 2D crystallographic structures dataset;
+    - can we extract similarities between the classes from the confusion matrix?
 3. ECG **signal classification**
 - classifiers comparison: SVM, decision trees, random forests
 - feature vectors and dimensionality reduction (PCA)
