@@ -14,10 +14,12 @@ Machine Learning in Physics
 - [self- and semi-supervised learning](https://drive.google.com/file/d/1Yb50fLPV3GE8vt8Qntm3RdOBJLWR6_60/view?usp=sharing)
 
 ## laboratory classes:
+
 #### 1. Preliminary problems
 - simple perceptron networks
 - Universal Approximation Theorem
 - [Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/18a24dcba8536ed4d1218c9a7bbd3eab/preliminary_problems.ipynb), see also [updated notebook](preliminary_problems_v2.ipynb)
+
 #### 2. Image classification using *MNIST* dataset
 - models: perceptron, deep fully-connected network, generic CNN
 - overfitting, regularization, early stopping
@@ -29,12 +31,16 @@ Machine Learning in Physics
 2. Extra task - generalization on **wallpaper groups** [dataset](https://drive.google.com/file/d/1BUz9eZdU-8wMGkEEmPk1IIUi05pH5ZUK/view?usp=sharing):
     - repeat the classifier training for a 2D crystallographic structures dataset;
     - can we extract similarities between the classes from the confusion matrix?
+
 #### 3. ECG signal classification
 - classifiers comparison: SVM, decision trees, random forests
 - feature vectors and dimensionality reduction (PCA)
 - scikit-learn library
+
 #### 4. Group equivariant CNNs
+
 #### 5. Physics-informed NNs
+
 #### 6. Transformer encoder
 
 ## Literature: 
