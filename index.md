@@ -37,7 +37,9 @@ Extra task - generalization on **wallpaper groups** [dataset](https://drive.goog
 #### 3. ECG signal classification
 - classifiers comparison: SVM, decision trees, random forests
 - feature vectors and dimensionality reduction (PCA)
-- scikit-learn library
+- *scikit-learn* library
+- [Colab notebook](https://colab.research.google.com/gist/jarek-pawlowski/38b38f6566048c5a5b30e691d22c14b4/ecg_classification.ipynb)
+
 
 #### 4. Group equivariant CNNs
 
